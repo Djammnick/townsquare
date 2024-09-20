@@ -46,7 +46,7 @@
       >
       on how to write a custom character definition file.
       <b>Only load custom JSON files from sources that you trust!</b>
-      <h3>Some popular custom scripts:</h3>
+      <h3>Chaos's selected scripts:</h3>
       <ul class="scripts">
         <li
           v-for="(script, index) in scripts"
@@ -95,29 +95,29 @@ export default {
       isCustom: false,
       scripts: [
         [
-          "Deadly Penance Day",
-          "https://gist.githubusercontent.com/bra1n/0337cc44c6fd2c44f7589256ed5486d2/raw/16be38fa3c01aaf49827303ac80577bdb52c0b25/penanceday.json"
-        ],
-        [
-          "Catfishing 11.1",
-          "https://gist.githubusercontent.com/bra1n/8a5ec41a7bbf945f6b7dfc1cef72b569/raw/a312ab93c2f302e0ef83c8b65a4e8e82760fda3a/catfishing.json"
-        ],
-        [
-          "On Thin Ice (Teensyville)",
-          "https://gist.githubusercontent.com/bra1n/8dacd9f2abc6f428331ea1213ab153f5/raw/0cacbcaf8ed9bddae0cca25a9ada97e9958d868b/on-thin-ice.json"
-        ],
-        [
-          "Race To The Bottom (Teensyville)",
-          "https://gist.githubusercontent.com/bra1n/63e1354cb3dc9d4032bcd0623dc48888/raw/5acb0eedcc0a67a64a99c7e0e6271de0b7b2e1b2/race-to-the-bottom.json"
-        ],
-        [
-          "Frankenstein's Mayor by Ted (Teensyville)",
-          "https://gist.githubusercontent.com/bra1n/32c52b422cc01b934a4291eeb81dbcee/raw/5bf770693bbf7aff5e86601c82ca4af3222f4ba6/Frankensteins_Mayor_by_Ted.json"
-        ],
-        [
-          "Vigormortis High School (Teensyville)",
-          "https://gist.githubusercontent.com/bra1n/1f65bd4a999524719d5dabe98c3c2d27/raw/22bbec6bf56a51a7459e5ae41ed47e41971c5445/VigormortisHighSchool.json"
-        ]
+          "Trouble Brewing on Expert Mode",
+          "https://gist.githubusercontent.com/Djammnick/1d82aa9707c624f3981b9d20a599804f/raw/e52205f53f8f0498355b090445ac935c948436cb/tb_exp.json"
+        ]//,
+        //[
+        //  "Catfishing 11.1",
+        //  "https://gist.githubusercontent.com/bra1n/8a5ec41a7bbf945f6b7dfc1cef72b569/raw/a312ab93c2f302e0ef83c8b65a4e8e82760fda3a/catfishing.json"
+        //],
+        //[
+        //  "On Thin Ice (Teensyville)",
+        //  "https://gist.githubusercontent.com/bra1n/8dacd9f2abc6f428331ea1213ab153f5/raw/0cacbcaf8ed9bddae0cca25a9ada97e9958d868b/on-thin-ice.json"
+        //],
+        //[
+        //  "Race To The Bottom (Teensyville)",
+        //  "https://gist.githubusercontent.com/bra1n/63e1354cb3dc9d4032bcd0623dc48888/raw/5acb0eedcc0a67a64a99c7e0e6271de0b7b2e1b2/race-to-the-bottom.json"
+        //],
+        //[
+        //  "Frankenstein's Mayor by Ted (Teensyville)",
+        //  "https://gist.githubusercontent.com/bra1n/32c52b422cc01b934a4291eeb81dbcee/raw/5bf770693bbf7aff5e86601c82ca4af3222f4ba6/Frankensteins_Mayor_by_Ted.json"
+        //],
+        //[
+        //  "Vigormortis High School (Teensyville)",
+        //  "https://gist.githubusercontent.com/bra1n/1f65bd4a999524719d5dabe98c3c2d27/raw/22bbec6bf56a51a7459e5ae41ed47e41971c5445/VigormortisHighSchool.json"
+        //]
       ]
     };
   },
