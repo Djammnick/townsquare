@@ -2032,7 +2032,7 @@
     "otherNightReminder": "Wake the Tracker. The Tracker chooses a player. Show the Tracker how many players visited that player tonight. Put the Tracker to sleep.",
     "reminders": ["Visited"],
     "setup": false,
-    "ability": "Each night, choose a player: you learn how many players visited them tonight."
+    "ability": "Each night, choose a player: you learn how many players affected them with an ability tonight."
   },
   {
     "id": "prakazrel",
