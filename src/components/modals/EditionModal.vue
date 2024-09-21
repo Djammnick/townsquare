@@ -97,6 +97,10 @@ export default {
         [
           "Trouble Brewing on Expert Mode",
           "https://gist.githubusercontent.com/Djammnick/1d82aa9707c624f3981b9d20a599804f/raw/e52205f53f8f0498355b090445ac935c948436cb/tb_exp.json"
+        ],
+        [
+          "Test Script for Homebrew Characters",
+          "https://gist.githubusercontent.com/Djammnick/ebb57c309592f1f94241e8f75d91e1ed/raw/a8b5336be67dff82a9460e9e1fbf3d461a959400/test.json"
         ]//,
         //[
         //  "Catfishing 11.1",

@@ -802,9 +802,9 @@
     "name": "Mathematician",
     "edition": "snv",
     "team": "townsfolk",
-    "firstNight": 52,
+    "firstNight": 53,
     "firstNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
-    "otherNight": 71,
+    "otherNight": 72,
     "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
     "reminders": ["Abnormal"],
     "setup": false,
@@ -2020,6 +2020,32 @@
     "reminders": [],
     "setup": true,
     "ability": "The Storyteller assigns 1 or more players' characters."
+  },
+  {
+    "id": "tracker",
+    "name": "Tracker",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 52,
+    "firstNightReminder": "Wake the Tracker. The Tracker chooses a player. Show the Tracker how many players visited that player tonight. Put the Tracker to sleep.",
+    "otherNight": 71,
+    "otherNightReminder": "Wake the Tracker. The Tracker chooses a player. Show the Tracker how many players visited that player tonight. Put the Tracker to sleep.",
+    "reminders": ["Visited"],
+    "setup": false,
+    "ability": "Each night, choose a player: you learn how many players visited them tonight."
+  },
+  {
+    "id": "prakazrel",
+    "name": "Prakazrel",
+    "edition": "",
+    "team": "traveler",
+    "firstNight": 32,
+    "firstNightReminder": "Choose any character. Show Prakazrel that character token. Prakazrel gains that character's ability for tonight and the next day.",
+    "otherNight": 47,
+    "otherNightReminder": "Choose any character. Show Prakazrel that character token. Prakazrel gains that character's ability for tonight and the next day.",
+    "reminders": ["Is Prakazrel"],
+    "setup": false,
+    "ability": "Each night, you have an ability of a character chosen by the Storyteller."
   }
 ]
 
