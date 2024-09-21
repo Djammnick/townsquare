@@ -1983,45 +1983,6 @@
     "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die."
   },
   {
-    "id": "bootlegger",
-    "name": "Bootlegger",
-    "edition": "",
-    "team": "fabled",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 0,
-    "otherNightReminder": "",
-    "reminders": [],
-    "setup": true,
-    "ability": "This script has homebrew characters or rules."
-  },
-  {
-    "id": "ferryman",
-    "name": "Ferryman",
-    "edition": "",
-    "team": "fabled",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 0,
-    "otherNightReminder": "",
-    "reminders": [],
-    "setup": true,
-    "ability": "On the final day, all dead players regain their vote token."
-  },
-  {
-    "id": "gardener",
-    "name": "Gardener",
-    "edition": "",
-    "team": "fabled",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 0,
-    "otherNightReminder": "",
-    "reminders": [],
-    "setup": true,
-    "ability": "The Storyteller assigns 1 or more players' characters."
-  },
-  {
     "id": "tracker",
     "name": "Tracker",
     "edition": "",
