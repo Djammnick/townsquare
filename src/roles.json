@@ -2068,8 +2068,8 @@
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 21,
-    "otherNightReminder": "",
-    "reminders": [],
+    "otherNightReminder": "If the Ringmaster nominated an outsider, the Ringmaster dies and the outsider turns into the new Ringmaster.",
+    "reminders": ["New Ringmaster"],
     "setup": false,
     "ability": "The first time you nominate, if the nominee is an outsider, tonight they become a Ringmaster & you die."
   }
