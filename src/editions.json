@@ -34,5 +34,14 @@
     "level": "Veteran",
     "roles": ["balloonist", "savant", "amnesiac", "fisherman", "artist", "cannibal", "mutant", "lunatic", "widow", "goblin", "leviathan"],
     "isOfficial": true
+  },
+  {
+    "id": "wtc",
+    "name": "Witness the Chaos",
+    "author": "Pasta Master",
+    "description": "A foreign chaos invades, swallowing the poor townsfolk whole. Hiding in their homes, the people watch harbringers ravaging their town.",
+    "level": "Veteran",
+    "roles": ["bootlegger", "djinn", "prakazrel", "noble", "pixie", "shugenja", "amnesiac", "balloonist", "fortuneteller", "philosopher", "huntsman", "ringmaster", "artist", "savant", "gossip", "alsaahir", "damsel", "stuntman", "puzzlemaster", "plaguedoctor", "pithag", "harbringer", "conglomerate", "godfather", "carlo", "fanggu", "lilmonsta", "nodashii"],
+    "isOfficial": false
   }
 ]

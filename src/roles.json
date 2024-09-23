@@ -2045,7 +2045,7 @@
     "otherNightReminder": "",
     "reminders": ["Correct", "Incorrect"],
     "setup": false,
-    "ability": "Once per game, during the day, visit the Storyteller and guess the roles of all good players. If you correctly guess the roles of all good players, your team wins. Otherwise, you learn how many guesses you made were incorrect."
+    "ability": "Once per game, during the day, visit the Storyteller and guess the roles of all players. If you correctly guess the roles of all good players, your team wins. Otherwise, you learn how many guesses you made were incorrect."
   },
   {
     "id": "stuntman",

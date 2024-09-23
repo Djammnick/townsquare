@@ -641,5 +641,27 @@
         "reason": "If the Exorcist chooses the Yaggababble, the Yaggababble ability does not kill tonight."
       }
     ]
+  },
+  {
+    "id": "Carlo",
+    "hatred": [
+      {
+        "id": "Soldier",
+        "reason": "If Carlo chooses the Soldier to become Conglomerate, the Storyteller chooses another player instead."
+      },
+      {
+        "id": "Poppy Grower",
+        "reason": "If the Poppy Grower is alive when Carlo chooses a player to become Conglomerate, the Storyteller chooses a player instead."
+      }
+    ]
+  },
+  {
+    "id": "Harbringer",
+    "hatred": [
+      {
+        "id": "Alchemist",
+        "reason": "If the Alchemist has the Harbringer ability, they must instead correctly guess the characters of all evil players to win."
+      }
+    ]
   }
 ]
