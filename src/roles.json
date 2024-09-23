@@ -2007,6 +2007,45 @@
     "reminders": ["Is Prakazrel"],
     "setup": false,
     "ability": "Each night, you have an ability of a character chosen by the Storyteller."
+  },
+  {
+    "id": "conglomerate",
+    "name": "Conglomerate",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["Dead"],
+    "setup": false,
+    "ability": "Each time a player visits you, they might die."
+  },
+  {
+    "id": "carlo",
+    "name": "Carlo",
+    "edition": "",
+    "team": "demon",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 31,
+    "otherNightReminder": "Wake Carlo. Carlo chooses a player. If his ability has not yet been used, Carlo nods or shakes his head. The chosen player dies or is turned into an evil Conglomerate, depending on the choice.",
+    "reminders": ["Dead"],
+    "setup": true,
+    "ability": "Each night, choose a player. They die. Once per game, you may choose to turn a player into an evil Conglomerate instead. If you do so, deaths tonight are arbitrary. [Conglomerate is on the script.]"
+  },
+  {
+    "id": "harbringer",
+    "name": "Harbringer",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["Correct", "Incorrect"],
+    "setup": false,
+    "ability": "Once per game, during the day, visit the Storyteller and guess the roles of all good players. If you correctly guess the roles of all good players, your team wins. Otherwise, you learn how many guesses you made were incorrect."
   }
 ]
 

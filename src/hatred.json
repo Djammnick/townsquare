@@ -16,6 +16,14 @@
     "id": "Plague Doctor",
     "hatred": [
       {
+        "id": "Conglomerate",
+        "reason": "If the Storyteller gains the Conglomerate ability, a player who visits the Storyteller might die."
+      },
+      {
+        "id": "Harbringer",
+        "reason": "If the Plague Doctor dies, a living Minion gains the Harbringer ability in addition to their own ability, and learns this."
+      },
+      {
         "id": "Baron",
         "reason": "If the Storyteller gains the Baron ability, up to two players become not-in-play Outsiders."
       },
