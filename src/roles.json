@@ -1988,9 +1988,9 @@
     "edition": "",
     "team": "townsfolk",
     "firstNight": 52,
-    "firstNightReminder": "Wake the Tracker. The Tracker chooses a player. Show the Tracker how many players visited that player tonight. Put the Tracker to sleep.",
+    "firstNightReminder": "Wake the Tracker. The Tracker chooses a player. Show the Tracker the number signal (0, 1, 2, \u2026) for how many players visited that player tonight. Put the Tracker to sleep.",
     "otherNight": 71,
-    "otherNightReminder": "Wake the Tracker. The Tracker chooses a player. Show the Tracker how many players visited that player tonight. Put the Tracker to sleep.",
+    "otherNightReminder": "Wake the Tracker. The Tracker chooses a player. Show the Tracker the number signal (0, 1, 2, \u2026) for how many players visited that player tonight. Put the Tracker to sleep.",
     "reminders": ["Visited"],
     "setup": false,
     "ability": "Each night, choose a player: you learn how many players affected them with an ability tonight."
@@ -2056,7 +2056,7 @@
     "firstNightReminder": "Wake the Stuntman. Show them the token of an in-play character. Put the Stuntman to sleep.",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": [],
+    "reminders": ["Mad"],
     "setup": false,
     "ability": "You start knowing one in-play Townsfolk. You are mad about being that character, even if dead, or they might be executed."
   }
