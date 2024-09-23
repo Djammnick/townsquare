@@ -2058,7 +2058,20 @@
     "otherNightReminder": "",
     "reminders": ["Mad"],
     "setup": false,
-    "ability": "You start knowing one in-play Townsfolk. You are mad about being that character, even if dead, or they might be executed."
+    "ability": "You start knowing one in-play Townsfolk. You are \"mad\" about being that character, even if dead, or they might be executed."
+  },
+  {
+    "id": "ringmaster",
+    "name": "Ringmaster",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 21,
+    "otherNightReminder": "",
+    "reminders": [],
+    "setup": false,
+    "ability": "The first time you nominate, if the nominee is an outsider, tonight they become a Ringmaster & you die."
   }
 ]
 
