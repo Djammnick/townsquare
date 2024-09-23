@@ -100,7 +100,7 @@ export default {
         ],
         [
           "Test Script for Homebrew Characters",
-          "https://gist.githubusercontent.com/Djammnick/ebb57c309592f1f94241e8f75d91e1ed/raw/ef78915898d166d7ced92c1cc045d10e26e1cb21/test.json"
+          "https://gist.githubusercontent.com/Djammnick/ebb57c309592f1f94241e8f75d91e1ed/raw/161574ef8940350daa5544aa5a7214bb1c2117ee/test.json"
         ]//,
         //[
         //  "Catfishing 11.1",
